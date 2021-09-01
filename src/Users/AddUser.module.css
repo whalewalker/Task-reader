@@ -1,0 +1,25 @@
+.input{
+    margin: 4rem auto 2rem;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+}
+
+.input .form-control{
+    width: 90%;
+}
+
+.input label{
+    display: block;
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+}
+
+.input input{
+    font: inherit;
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 0.15rem;
+    margin-bottom: 0.5rem;
+}
