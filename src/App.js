@@ -2,7 +2,7 @@ import "./App.css"
 import AddTodo from "./Todo/AddTodo";
 import FilterButton from "./Todo/FilterButton";
 import TodoList from "./Todo/TodoList";
-import {useEffect, useState} from "react";
+import {useState} from "react";
 import {nanoid} from "nanoid";
 
 const FILTER_MAP = {
